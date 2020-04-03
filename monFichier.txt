@@ -1,3 +1,6 @@
 Ceci est un fichier .txt
 
 Modification depuis le gitHub
+
+
+Modification depuis ma machine locale
